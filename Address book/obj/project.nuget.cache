@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eg05deSlWsARsOypa7ze0a5HDKM0b47J6+SmtVIPM69g2WOD2QMoI4mo0CbA6wc9jmGQEW0jeSZsMTu35r3aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marina\\source\\repos\\Address book\\Address book\\Address book.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
